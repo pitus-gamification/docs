@@ -2,9 +2,8 @@
 	"nodes":[
 		{"id":"8b8c3d1dadf59b56","type":"group","x":-270,"y":200,"width":1040,"height":620,"label":"Сканнер"},
 		{"id":"61344fdf191f8cd9","type":"group","x":-1830,"y":0,"width":1280,"height":400,"label":"Админ. приложение"},
-		{"id":"ef11ba700f407fc5","type":"group","x":1010,"y":200,"width":820,"height":140,"label":"MiniApp"},
+		{"id":"ef11ba700f407fc5","type":"group","x":1120,"y":-200,"width":820,"height":540,"label":"MiniApp"},
 		{"id":"dd4c2cc0832bf9a4","type":"text","text":"Авторизация администратор","x":-1790,"y":40,"width":250,"height":60},
-		{"id":"f3035ea898c56583","type":"text","text":"Управление пользователями","x":-840,"y":40,"width":250,"height":60},
 		{"id":"6cd356e425349cb6","type":"text","text":"Мероприятия","x":-350,"y":-560,"width":250,"height":60},
 		{"id":"92ce4cb677ef3a97","type":"text","text":"Управление мероприятиями","x":-1315,"y":260,"width":250,"height":60},
 		{"id":"20799c1f62ec361a","type":"text","text":"Создание мероприятий","x":-1480,"y":40,"width":250,"height":60},
@@ -13,15 +12,16 @@
 		{"id":"591ba11127bba6bd","type":"text","text":"Пользователи","x":630,"y":-820,"width":250,"height":60},
 		{"id":"9534f88043e3c2ea","type":"text","text":"Группы пользователей","x":-30,"y":-560,"width":250,"height":60},
 		{"id":"20328719979e1b85","type":"text","text":"Группировка пользователей по мероприятиям\n","x":-45,"y":-320,"width":280,"height":60},
+		{"id":"f3035ea898c56583","type":"text","text":"Управление пользователями","x":-840,"y":40,"width":250,"height":60},
 		{"id":"d98ec43912e565c3","type":"text","text":"Добавление в группу","x":270,"y":-320,"width":250,"height":60},
-		{"id":"8ae13a145d020c8b","type":"text","text":"QR-код пользователя","x":630,"y":-320,"width":250,"height":60},
 		{"id":"a8d2cc73614010fd","type":"text","text":"Авторизация модератора","x":-230,"y":240,"width":250,"height":60},
-		{"id":"55a6184198cc4248","type":"text","text":"Сканирование QR-кодов","x":485,"y":240,"width":250,"height":60},
 		{"id":"486302a21eb8f716","type":"text","text":"Верификация пользователей","x":485,"y":440,"width":250,"height":60},
 		{"id":"691f57d936c347bf","type":"text","text":"Добавление в группу мероприятия","x":330,"y":720,"width":250,"height":60},
 		{"id":"253ffe411e4cd17b","type":"text","text":"Список мероприятий","x":150,"y":240,"width":250,"height":60},
-		{"id":"3c6c1e8a45b36b80","type":"text","text":"Страничка пользователя","x":1070,"y":240,"width":250,"height":60},
-		{"id":"acf2b95d73a895ba","type":"text","text":"Авторизация пользователя","x":1510,"y":240,"width":250,"height":60}
+		{"id":"55a6184198cc4248","type":"text","text":"Сканирование QR-кодов","x":485,"y":300,"width":250,"height":60},
+		{"id":"8ae13a145d020c8b","type":"text","text":"QR-код пользователя","x":1600,"y":-140,"width":250,"height":60},
+		{"id":"3c6c1e8a45b36b80","type":"text","text":"Страничка пользователя","x":1600,"y":140,"width":250,"height":60},
+		{"id":"acf2b95d73a895ba","type":"text","text":"Авторизация пользователя","x":1140,"y":-140,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"a69f80443a72ad5e","fromNode":"53f12873b4313406","fromSide":"bottom","toNode":"dd4c2cc0832bf9a4","toSide":"top"},
