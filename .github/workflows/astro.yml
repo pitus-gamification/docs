@@ -40,7 +40,7 @@ jobs:
       - name: Checkout-docs
         uses: actions/checkout@v4
         with:
-          path: docs-static-site/src/content/docs/common
+          path: src/content/docs/common
       - name: Detect package manager
         id: detect-package-manager
         run: |
