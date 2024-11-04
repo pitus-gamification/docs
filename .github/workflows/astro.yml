@@ -36,7 +36,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          repository: https://github.com/pitus-gamification/docs-static-site
+          repository: pitus-gamification/docs-static-site
       - name: Checkout-docs
         uses: actions/checkout@v4
         with:
